@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching
-
 I've taught the following courses while at CSU Fullerton. Over the past several semesters, I have primarily taught the capstone course for undergraduate economics majors, ECON 490.
 
 ---
