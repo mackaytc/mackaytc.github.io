@@ -3,6 +3,10 @@ layout: home
 title: Home
 ---
 
+<div style="margin: -20px -20px 30px -20px; position: relative;">
+<img src="/assets/images/cropped-landscape-background.jpg" alt="Landscape" style="width: 100%; max-height: 280px; object-fit: cover; object-position: center;">
+</div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;" markdown="1">
 
 <div style="flex: 1; min-width: 300px;" markdown="1">

@@ -19,9 +19,8 @@ twitter_username: _tmackay
 github_username: mackaytc
 
 # Contact info
-author:
-  name: Taylor Mackay
-  email: tmackay@fullerton.edu
+author: Taylor Mackay
+email: tmackay@fullerton.edu
 
 # Exclude files
 exclude:
