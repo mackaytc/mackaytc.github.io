@@ -1,0 +1,30 @@
+title: Taylor Mackay
+description: Assistant Professor at CSU Fullerton
+url: "https://mackaytc.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - cv.md
+
+# Social links
+twitter_username: _tmackay
+github_username: mackaytc
+
+# Contact info
+author:
+  name: Taylor Mackay
+  email: tmackay@fullerton.edu
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
