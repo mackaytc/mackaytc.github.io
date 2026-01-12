@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;" markdown="1">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;" markdown="1">
 
 I am an Assistant Professor of Economics at California State University, Fullerton. My research focuses broadly on poverty, immigration, and housing. You can learn more about work I've done [here](research) and download a copy of my CV [here](assets/pdfs/taylor-mackay-CV-september-2025.pdf).
 
