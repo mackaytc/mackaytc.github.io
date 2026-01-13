@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Driver's Licenses and Unauthorized Immigrants
+title: Driver's Licenses for Unauthorized Immigrants and Auto Insurance
 permalink: /drivers-licenses/
 ---
-
-## Driver's Licenses for Unauthorized Immigrants and Auto Insurance
 
 *Journal article written with Brandyn Churchill and Bing Yang Tan*
 

@@ -28,8 +28,8 @@ Fullerton, CA 92834-6848
 
 </div>
 
-<div style="flex: 0 0 250px;">
-<img src="assets/images/mackay-headshot.jpeg" alt="Taylor Mackay" style="max-width: 100%; border-radius: 8px;">
+<div style="flex: 0 0 250px; text-align: center;">
+<img src="/assets/images/mackay-headshot.jpeg" alt="Taylor Mackay" style="max-width: 100%; border-radius: 8px; display: block; margin: 0 auto;">
 </div>
 
 </div>

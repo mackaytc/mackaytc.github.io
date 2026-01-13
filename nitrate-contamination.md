@@ -4,8 +4,6 @@ title: Nitrate Contamination and Home Prices in California
 permalink: /nitrate-contamination/
 ---
 
-## Nitrate Contamination and Home Prices in California
-
 While I was in graduate school, I had the opportunity to work on a project exploring how consumers reacted to news that their tap water was unsafe to drink. Using data from across the United States, [we found that bottled water sales increased](https://www.pnas.org/doi/10.1073/pnas.1905385116) in counties where local water systems issued public notifications about drinking water contamination.
 
 <figure style="text-align: center; margin: 30px 0;">
