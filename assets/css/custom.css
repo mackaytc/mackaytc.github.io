@@ -7,6 +7,11 @@ body {
   background-color: #fdf6e3 !important;
   color: #586e75 !important;
   font-family: 'Libre Baskerville', Georgia, serif !important;
+  line-height: 1.65 !important;
+}
+
+p {
+  margin-bottom: 1.1em !important;
 }
 
 /* Header area - use sans-serif for navigation */
