@@ -7,8 +7,6 @@ body {
   background-color: #fdf6e3 !important;
   color: #586e75 !important;
   font-family: 'Libre Baskerville', Georgia, serif !important;
-  font-size: 16px !important;
-  line-height: 1.65 !important;
 }
 
 /* Header area - use sans-serif for navigation */
@@ -58,8 +56,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
   color: #073642 !important;
   font-weight: 700 !important;
-  margin-top: 1.2em !important;
-  margin-bottom: 0.5em !important;
 }
 
 h1 {
@@ -105,22 +101,10 @@ a:visited {
   color: #6c71c4 !important;
 }
 
-/* Paragraphs */
-p {
-  margin-bottom: 1em !important;
-}
-
 /* Lists - circle style like old site */
 ul {
   list-style: circle !important;
   list-style-position: outside !important;
-  margin-left: 20px !important;
-  margin-bottom: 1em !important;
-}
-
-li {
-  margin-bottom: 0.3em !important;
-  padding-left: 5px !important;
 }
 
 /* Blockquotes - styled with left border accent */
@@ -128,20 +112,13 @@ blockquote {
   font-style: italic !important;
   color: #657b83 !important;
   border-left: 4px solid #2aa198 !important;
-  padding: 12px 18px !important;
-  margin: 1.2em 0 !important;
   background-color: #eee8d5 !important;
-}
-
-blockquote p {
-  margin-bottom: 0 !important;
 }
 
 /* Horizontal rules */
 hr {
   border: none !important;
   border-top: 1px solid #93a1a1 !important;
-  margin: 1.8em 0 !important;
 }
 
 /* Strong/bold text */
@@ -153,9 +130,7 @@ strong, b {
 /* Footer styling */
 .site-footer {
   background-color: #eee8d5 !important;
-  border-top: 2px solid #93a1a1 !important;
-  padding: 20px 0 !important;
-  margin-top: 35px !important;
+  border-top: 1px solid #93a1a1 !important;
 }
 
 /* Footer button styles */
@@ -209,20 +184,9 @@ pre {
   overflow-x: auto !important;
 }
 
-/* Images and figures */
-figure {
-  margin: 1.5em 0 !important;
-}
-
 figcaption {
   font-size: 0.85em !important;
   color: #93a1a1 !important;
   font-style: italic !important;
-  margin-top: 10px !important;
   text-align: center !important;
-}
-
-/* Content area breathing room */
-.post-content, .page-content {
-  padding-top: 20px !important;
 }
