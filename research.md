@@ -14,7 +14,7 @@ permalink: /research/
 
 ### Publications
 
-["Drinking Water Contamination and Home Prices: Evidence from California"](/assets/pdfs/Water_Quality_and_Home_Prices.pdf) (2025) accepted for publication in *Applied Economics Letters*.
+["Drinking Water Contamination and Home Prices: Evidence from California"](https://doi.org/10.1080/13504851.2025.2567610) (2025) in *Applied Economics Letters*.
 - Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
 - Click [here](/nitrate-contamination/) for a non-technical discussion of this paper
 
@@ -24,7 +24,7 @@ permalink: /research/
 ["Driver's Licenses for Unauthorized Immigrants and Auto Insurance"](https://doi.org/10.1111/coep.12492) (2021) with Brandyn Churchill and Bing Yang Tan in *Contemporary Economic Policy* 39(1):107-125.
 - Click [here](/drivers-licenses/) for a non-technical discussion of this paper
 
-["The Effect of E-Verify Laws on Crime"](http://ftp.iza.org/dp12798.pdf) (2021) with Brandyn Churchill, Andrew Dickinson, and Joseph J. Sabia in *Industrial and Labor Relations Review* 75(5): 1294-1320.
+["The Effect of E-Verify Laws on Crime"](http://ftp.iza.org/dp12798.pdf) (2021) with Brandyn Churchill, Andrew Dickinson, and Joseph J. Sabia in *ILR Review* 75(5): 1294-1320.
 
 ["The Unintended Effects of Ban-the-Box Laws on Crime"](https://www.journals.uchicago.edu/doi/abs/10.1086/715187?journalCode=jle) (2021) with Brandyn Churchill, Thanh Tam Nguyen, and Joseph J. Sabia in *The Journal of Law and Economics* 64(4): 783-820.
 

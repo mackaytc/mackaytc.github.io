@@ -25,13 +25,13 @@ California recognized access to safe drinking water as a human right back in 201
 
 Using home price data from 2000 to 2024 across California, I found that nitrate contamination notifications lead to significant declines in home prices - about 5.8% on average. For a typical home worth around $397,000, that's a loss of about $23,000 in value.
 
-The effects show up quickly after notification and persist for several years afterwards. Average home prices in affected areas drop most in the first three years after residents learn about the contamination, with declines between 3% and 5%.
+The effects show up quickly after notification and persist for several years afterwards. Average home prices in affected areas drop the most in the first three years after residents learn about the contamination, with declines between 3% and 5%.
 
 For an average-sized water system serving about 27,700 people, the total economic cost comes out to roughly $212.5 million. That's a substantial hit to community wealth.
 
 <figure style="text-align: center; margin: 30px 0;">
 <img src="/assets/images/nitrate-event-study.png" alt="Event study graph showing home price declines after nitrate notification" style="max-width: 100%; max-height: 400px; display: block; margin: 0 auto;">
-<figcaption style="font-style: italic; color: #666; margin-top: 10px;">The graph above shows how home prices declined in the years after a nitrate public notification (PN). We can read this as saying, "Home prices were around ~4% lower 2 years after a nitrate contamination notification, and ~5% lower 3 years after." The X-axis shows the year relative to the notification (i.e., -1 is the year before, 0 is the year of the notification, etc.) and the Y-axis shows changes in percentage terms. Graph is Figure 3 from the research paper linked above.</figcaption>
+<figcaption style="font-style: italic; color: #666; margin-top: 10px;">The graph above shows how home prices declined in the years after a nitrate public notification (PN). We can read this as saying, "Home prices were ~4% lower 2 years after a nitrate contamination notification, and ~5% lower 3 years after." The X-axis shows the year relative to the notification (i.e., -1 is the year before, 0 is the year of the notification, etc.) and the Y-axis shows changes in percentage terms. Graph is Figure 3 from the research paper linked above.</figcaption>
 </figure>
 
 ---

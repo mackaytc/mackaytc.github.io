@@ -28,7 +28,7 @@ We wanted to know what happens when states let unauthorized immigrants get drive
 
 **What does this paper say?**
 
-We find that letting unauthorized immigrants get drivers' licenses leads to more people getting licenses and more people purchasing auto insurance. These are good things!
+We find that letting unauthorized immigrants get driver's licenses leads to more people getting licenses and more people purchasing auto insurance. These are good things!
 
 We don't see a lot of changes in, say, total miles driven across states when they pass one of these policies. What does this mean? We think some unauthorized immigrants were already driving without licenses. Letting these folks get a license makes them more likely to get licensed and insured. But we don't see the changes that we'd expect if *new* drivers were hitting the road.
 
