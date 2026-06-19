@@ -14,7 +14,7 @@ permalink: /research/
 
 ### Publications
 
-["Drinking Water Contamination and Home Prices: Evidence from California"](https://doi.org/10.1080/13504851.2025.2567610) (2025) in *Applied Economics Letters*.
+["Drinking Water Contamination and Home Prices: Evidence from California"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959700) (2025) in *Applied Economics Letters*.
 - Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
 - Click [here](/nitrate-contamination/) for a non-technical discussion of this paper
 
