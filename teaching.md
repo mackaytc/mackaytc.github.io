@@ -10,10 +10,7 @@ I've taught the following courses while at CSU Fullerton. Over the past several 
 
 **Economics Capstone (ECON 490)**
 
-Course material for ECON 490, including slides, R code, etc., is posted on GitHub and available at the following links:
-
-- [`econ-490-course-material`: Lecture notes for ECON 490](https://github.com/mackaytc/econ-490-course-material)
-- [`R-resources`: R-related teaching material](https://github.com/mackaytc/R-resources)
+[`econ-490`: GitHub page for course materials including slides, R code, etc.](https://github.com/mackaytc/econ-490)
 
 > *Course Description from Syllabus:* The overarching goal of this course is to develop your ability to consume and produce high-quality economics research. As part of this process, you will learn how to identify, evaluate, and synthesize existing theoretical and empirical economics research. You will also learn how to use economic theory and empirical economic analysis to assess economic claims and address research questions. Using the skills developed in this course, you will produce your own original economics research in the form of a final capstone paper.
 

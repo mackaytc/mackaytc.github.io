@@ -19,6 +19,8 @@ I am an Assistant Professor of Economics at California State University, Fullert
 
 **GitHub:** [github.com/mackaytc](https://github.com/mackaytc)
 
+**Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=M_CnOjIAAAAJ&hl=en)
+
 **Address:**
 Department of Economics
 800 N. State College Blvd. SGMH-3313

@@ -10,8 +10,6 @@ permalink: /research/
 
 "Affordable Housing and Public Safety" with Matthew Ross and Aria Golestani
 
-"Source of Income Discrimination and the Housing Choice Voucher Program"
-
 ---
 
 ### Publications
