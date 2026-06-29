@@ -21,14 +21,6 @@ I am an Assistant Professor of Economics at California State University, Fullert
 
 **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=M_CnOjIAAAAJ&hl=en)
 
-**Address:**
-Department of Economics
-800 N. State College Blvd. SGMH-3313
-CSUF College of Business and Economics
-Fullerton, CA 92834-6848
-
-**Office:** SGMH 3340
-
 </div>
 
 <div style="flex: 0 0 250px; text-align: center;">
