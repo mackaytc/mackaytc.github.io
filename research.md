@@ -6,7 +6,16 @@ permalink: /research/
 
 ### Working Papers
 
-"Affordable Housing and Public Safety" with Matthew Ross and Aria Golestani
+["Affordable Housing Construction and Local Public Safety: Evidence from Los Angeles"](/assets/pdfs/mackay-affordable-housing-crime.pdf) with Aria Golestani and Matthew B. Ross
+
+> Affordable housing development is a central policy tool for addressing housing insecurity. Local opposition to new projects often centers on concerns about public safety. We study the effects of new affordable housing on nearby crime in Los Angeles from 2005 to 2023 using administrative records on housing-site openings and permits linked to geocoded public safety data. Exploiting temporal and geographic variation in site openings, we find that any pooled effects are highly localized: 911 calls increase by roughly 20 percent in the immediate vicinity of new sites, but these effects attenuate quickly with distance and become difficult to detect at broader spatial scales. These average effects, however, mask substantial heterogeneity across housing types. Supportive housing developments are associated with much larger and more persistent increases in nearby crime, with the strongest effects concentrated near project sites but extending over a broader surrounding areas. By contrast, effects for non-supportive affordable housing are modest and generally similar to those of market-rate multifamily housing. The results suggest that the local public safety effects of affordable housing are not homogeneous across project types and concerns about public safety are most salient for supportive housing developments. These findings provide new and nuanced evidence that informs a contentious policy debate in which local public safety concerns have often constrained efforts to expand affordable housing and where those concerns are not typically incorporated into siting decisions.
+{: .abstract}
+
+["Business Licensing Trajectories around Mixed-Use Housing Construction: Evidence from Chicago"](/assets/pdfs/mackay-mixed-use-chicago.pdf)
+- Online appendix [available here](/assets/pdfs/mackay-mixed-use-chicago-appendix.pdf)
+
+> Mixed-use development has become a cornerstone of contemporary urban planning, promoted as a way to add housing supply while keeping neighborhoods walkable and commercially active. Yet how nearby business activity evolves around these projects remains largely unknown. Linking permit records of mixed-use construction to annual business licensing in Chicago from 2002 to 2025, I examine how housing and local commerce develop together. Licensed business activity is higher in the years around mixed-use permit issuance, and a stock/flow decomposition points to new business entry, rather than fewer exits, as the clearest margin. The gains are positive across food, retail, services, and entertainment but differ in size and precision. Together, these patterns describe neighborhoods where new housing and licensed business activity grow together, adding descriptive evidence to debates over whether denser, mixed-use development supports neighborhood commerce.
+{: .abstract}
 
 ---
 

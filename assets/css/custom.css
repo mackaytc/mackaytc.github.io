@@ -118,6 +118,11 @@ blockquote {
   background-color: #eee8d5 !important;
 }
 
+/* Paper abstracts - blockquote styling at slightly smaller text */
+blockquote.abstract {
+  font-size: 0.9em !important;
+}
+
 /* Horizontal rules */
 hr {
   border: none !important;
