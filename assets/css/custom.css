@@ -118,9 +118,25 @@ blockquote {
   background-color: #eee8d5 !important;
 }
 
-/* Paper abstracts - blockquote styling at slightly smaller text */
-blockquote.abstract {
-  font-size: 0.9em !important;
+/* Paper abstracts - collapsible, styled to match blockquotes */
+details.abstract {
+  color: #657b83 !important;
+  border-left: 4px solid #2aa198 !important;
+  background-color: #eee8d5 !important;
+  padding: 10px 15px !important;
+  margin-bottom: 15px !important;
+  font-style: italic !important;
+}
+
+details.abstract summary {
+  cursor: pointer !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  color: #073642 !important;
+}
+
+details.abstract[open] summary {
+  margin-bottom: 10px !important;
 }
 
 /* Horizontal rules */
