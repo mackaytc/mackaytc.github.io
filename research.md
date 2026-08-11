@@ -24,7 +24,7 @@ permalink: /research/
 ["The Effect of Source of Income Policies on Recipients of Non-Voucher Categories of Protected Income"](/assets/pdfs/mackay-SOI-working-paper.pdf) (2026) accepted for publication in *Atlantic Economic Journal*.
 - Online appendix [available here](/assets/pdfs/mackay-SOI-working-paper-appendix.pdf)
 
-["Drinking Water Contamination and Home Prices: Evidence from California"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959700) (2025) in *Applied Economics Letters*.
+["Drinking Water Contamination and Home Prices: Evidence from California"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959700) (2025) in *Applied Economics Letters* (advance online publication): 1-5.
 - Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
 - Click [here](/nitrate-contamination/) for a non-technical discussion of this paper
 
