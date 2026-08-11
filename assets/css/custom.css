@@ -139,6 +139,26 @@ details.abstract summary {
   font-style: italic !important;
   font-weight: 700 !important;
   color: #073642 !important;
+  list-style: none !important;
+}
+
+/* Replace the browser's disclosure triangle with one that sits in the left
+   gutter, so "Abstract" starts on the same edge as the bullet text below */
+details.abstract summary::-webkit-details-marker {
+  display: none !important;
+}
+
+details.abstract summary::before {
+  content: "\25B8";
+  display: inline-block;
+  width: 16px;
+  margin-left: -16px;
+  font-style: normal;
+  color: #2aa198;
+}
+
+details.abstract[open] summary::before {
+  content: "\25BE";
 }
 
 details.abstract[open] summary {
