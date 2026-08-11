@@ -118,11 +118,11 @@ blockquote {
   background-color: #eee8d5 !important;
 }
 
-/* Paper abstracts - collapsible, styled to match blockquotes */
+/* Paper abstracts - collapsible; blockquote styling minus the shading, so
+   the research page reads lighter than the teaching page's course blocks */
 details.abstract {
   color: #657b83 !important;
   border-left: 4px solid #2aa198 !important;
-  background-color: #eee8d5 !important;
   padding: 10px 15px !important;
   margin-bottom: 15px !important;
   font-style: italic !important;
@@ -149,6 +149,11 @@ hr {
 strong, b {
   color: #073642 !important;
   font-weight: 700 !important;
+}
+
+/* Bolded text inside links keeps the link color */
+a strong, a b {
+  color: inherit !important;
 }
 
 /* Footer styling */
