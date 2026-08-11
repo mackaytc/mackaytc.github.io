@@ -6,13 +6,14 @@ permalink: /research/
 
 ### Working Papers
 
-[The Effect of Source of Income Policies on Recipients of Non-Voucher Categories of Protected Income](/assets/pdfs/SOI_Policies_and_Non_HCV_Protected_Classes_of_Income.pdf)
-
 "Affordable Housing and Public Safety" with Matthew Ross and Aria Golestani
 
 ---
 
 ### Publications
+
+["The Effect of Source of Income Policies on Recipients of Non-Voucher Categories of Protected Income"](/assets/pdfs/mackay-SOI-working-paper.pdf) (2026) accepted for publication in *Atlantic Economic Journal*.
+- Online appendix [available here](/assets/pdfs/mackay-SOI-working-paper-appendix.pdf)
 
 ["Drinking Water Contamination and Home Prices: Evidence from California"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959700) (2025) in *Applied Economics Letters*.
 - Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
