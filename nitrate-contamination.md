@@ -17,17 +17,15 @@ Buying bottled water allows consumers to avoid drinking contaminated water and m
 
 **What is this paper about?**
 
-California recognized access to safe drinking water as a human right back in 2012. Yet nitrate contamination from agricultural fertilizers and animal waste remains a serious problem, especially in the Central Valley. When water systems detect unsafe nitrate levels, they're required to notify residents within 24 hours - these are called "Tier 1" notifications because of the serious health risks involved. I wanted to know: when people find out their water is contaminated, what happens to local home values?
+In 2012, California recognized access to safe drinking water as a human right. Despite this, many communities still struggle to deliver safe, clean drinking water. This is especially true in the Central Valley, where nitrate contamination from agricultural fertilizers and animal waste remains a serious problem. When water systems detect unsafe nitrate levels, they're required to notify residents within 24 hours. These notifications are called "Tier 1" notifications because they alert consumers to the presence of contaminants such as nitrates that pose immediate, serious health risks. In this project, I explore how these contamination events affect local home values.
 
 ---
 
 **What does this paper say?**
 
-Using home price data from 2000 to 2024 across California, I found that nitrate contamination notifications lead to significant declines in home prices - about 5.8% on average. For a typical home worth around $397,000, that's a loss of about $23,000 in value.
+I start by collecting data on home prices from 2000 to 2024 across California. Using this data, I can estimate how average home prices change after a nitrate notification is issued. I find that nitrate contamination notifications lead to declines in home prices of 5.8% on average. These declines appear soon after the notification is issued and persist for several years.
 
-The effects show up quickly after notification and persist for several years afterwards. Average home prices in affected areas drop the most in the first three years after residents learn about the contamination, with declines between 3% and 5%.
-
-For an average-sized water system serving about 27,700 people, the total economic cost comes out to roughly $212.5 million. That's a substantial hit to community wealth.
+To put these results in context, a typical home in my data was worth around $397,000. That 5.8% decline translates to a loss of approximately $23,000 in home value. I can scale this estimate up by considering the impact of a notification across an entire water system. In my data, an average-sized water system that issues a nitrate notification serves about 27,700 people spread across 9,200 homes. Taken together, this implies a total economic cost of roughly $212 million for a given water system.
 
 <figure style="text-align: center; margin: 30px 0;">
 <img src="/assets/images/nitrate-event-study.png" alt="Event study graph showing home price declines after nitrate notification" style="max-width: 100%; max-height: 400px; display: block; margin: 0 auto;">
@@ -38,8 +36,6 @@ For an average-sized water system serving about 27,700 people, the total economi
 
 **What should I take away from this paper?**
 
-When families learn their tap water isn't safe, they face immediate costs (buying bottled water, installing filters) and long-term consequences (reduced home values, pressure to move). For the 1.4 million Californians living in water systems that have experienced nitrate contamination issues, this research puts a dollar figure on an environmental problem that's often discussed in health terms alone.
+When residents learn their tap water isn't safe to drink, they face a range of costs. In the short term, they have to secure clean drinking water, which might entail boiling tap water, buying bottled water, or installing water filters. In the long term, affected residents face reduced home values and pressure to move. While the health consequences of water contamination have received significant media coverage, the longer-term economic consequences are substantial as well.
 
-This matters because nitrate contamination in California isn't going away. A major state investigation concluded such contamination issues will "likely worsen for several decades." Agricultural areas face an ongoing tension between farming practices that feed the nation and protecting the water that local communities depend on.
-
-These findings also tell us something important about information disclosure laws. The EPA's requirement that water systems notify residents about contamination clearly has teeth - people pay attention and markets respond. This suggests "right-to-know" policies can be effective, even if the news they deliver is unwelcome.
+Nitrate contamination is connected with agricultural activity, which is prevalent throughout the Central Valley. Balancing the trade-offs around farming, raising livestock, and ensuring safe drinking water requires fully accounting for the costs of contamination. Analyzing declines in home prices tells us about the value that residents place on services like clean drinking water. For the 1.4 million Californians served by water systems that have issued nitrate notifications, the economic costs of contamination imply that the returns to investing in water treatment would be high.
