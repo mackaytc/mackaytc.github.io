@@ -118,25 +118,37 @@ blockquote {
   background-color: #eee8d5 !important;
 }
 
-/* Paper abstracts - collapsible; blockquote styling minus the shading, so
-   the research page reads lighter than the teaching page's course blocks */
+/* Paper abstracts - collapsible. No shading (unlike the teaching page's
+   course blocks), and the accent rule appears only once the abstract is
+   open, so the collapsed label sits quietly above the paper's links. */
 details.abstract {
   color: #657b83 !important;
-  border-left: 4px solid #2aa198 !important;
-  padding: 10px 15px !important;
-  margin-bottom: 15px !important;
   font-style: italic !important;
+  border-left: 4px solid transparent !important;
+  padding-left: 26px !important;
+  margin: -0.5em 0 1.5em !important;
+}
+
+details.abstract[open] {
+  border-left-color: #2aa198 !important;
+  padding-bottom: 4px !important;
 }
 
 details.abstract summary {
   cursor: pointer !important;
-  font-style: normal !important;
-  font-weight: 600 !important;
+  font-style: italic !important;
+  font-weight: 700 !important;
   color: #073642 !important;
 }
 
 details.abstract[open] summary {
-  margin-bottom: 10px !important;
+  margin-bottom: 8px !important;
+}
+
+/* Links belonging to a paper tuck up under its abstract toggle */
+details.abstract + ul {
+  margin-top: -1.1em !important;
+  margin-bottom: 1.5em !important;
 }
 
 /* Horizontal rules */

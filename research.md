@@ -14,49 +14,54 @@ Affordable housing development is a central policy tool for addressing housing i
 </details>
 
 [**"Business Licensing Trajectories around Mixed-Use Housing Construction: Evidence from Chicago"**](/assets/pdfs/mackay-mixed-use-chicago.pdf)
-- Online appendix [available here](/assets/pdfs/mackay-mixed-use-chicago-appendix.pdf)
 
 <details class="abstract">
 <summary>Abstract</summary>
 Mixed-use development has become a cornerstone of contemporary urban planning, promoted as a way to add housing supply while keeping neighborhoods walkable and commercially active. Yet how nearby business activity evolves around these projects remains largely unknown. Linking permit records of mixed-use construction to annual business licensing in Chicago from 2002 to 2025, I examine how housing and local commerce develop together. Licensed business activity is higher in the years around mixed-use permit issuance, and a stock/flow decomposition points to new business entry, rather than fewer exits, as the clearest margin. The gains are positive across food, retail, services, and entertainment but differ in size and precision. Together, these patterns describe neighborhoods where new housing and licensed business activity grow together, adding descriptive evidence to debates over whether denser, mixed-use development supports neighborhood commerce.
 </details>
 
+- Online appendix [available here](/assets/pdfs/mackay-mixed-use-chicago-appendix.pdf)
+
 ---
 
 ### Publications
 
 [**"The Effect of Source of Income Policies on Recipients of Non-Voucher Categories of Protected Income"**](/assets/pdfs/mackay-SOI-working-paper.pdf) (2026) accepted for publication in *Atlantic Economic Journal*.
-- Online appendix [available here](/assets/pdfs/mackay-SOI-working-paper-appendix.pdf)
 
 <details class="abstract">
 <summary>Abstract</summary>
 Source of income laws prohibit landlords from discriminating against rental housing applicants based on reported income sources. Such laws are now in force in more than 20 states and 100 local jurisdictions. Prior research has focused on their impact on recipients of Housing Choice Vouchers; this paper provides the first examination of their effects on recipients of non-voucher categories of protected income, including Supplemental Security Income and welfare payments. Using American Community Survey microdata from 2006 to 2021, aggregated to the Consistent Public Use Microdata Area-by-year level, and a robust event-study estimator, the analysis estimates intent-to-treat effects on residential mobility, gross rent, household size, and crowding for likely-affected renters. Estimated effects are uniformly close to zero across all four outcomes. The mobility estimates are precise enough to rule out increases above 2 to 3 percentage points, equivalent to relative increases above 10% to 13% given a baseline mobility rate of 22%. The estimates indicate that, in nationally representative survey data, source of income laws do not generate large detectable aggregate changes for non-voucher protected-income recipients on the housing margins observable in the American Community Survey.
 </details>
 
+- Online appendix [available here](/assets/pdfs/mackay-SOI-working-paper-appendix.pdf)
+
 [**"Drinking Water Contamination and Home Prices: Evidence from California"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959700) (2025) in *Applied Economics Letters* (advance online publication): 1-5.
-- Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
-- Click [here](/nitrate-contamination/) for a non-technical discussion of this paper
 
 <details class="abstract">
 <summary>Abstract</summary>
 Water systems in the U.S. are required to provide notifications to consumers when they detect elevated levels of contaminants in drinking water. This paper provides the first examination of the effects of nitrate contamination notifications on home prices in California, an issue that has impacted more than 1.4 million residents in affected water systems across the state. Using a robust difference-in-differences and event-study framework with ZIP-code level housing data from 2000 to 2024, I find that nitrate contamination notifications are associated with statistically significant declines in home prices of approximately 5.8 percent in the years following a notification. These estimates imply economic costs amounting to $212.5 million for an average-sized water system.
 </details>
 
+- Online appendix [available here](/assets/pdfs/Water_Quality_and_Home_Prices-online-appendix.pdf)
+- Click [here](/nitrate-contamination/) for a non-technical discussion of this paper
+
 [**"Measuring Take-up of the California EITC with State Administrative Data"**](https://www.capolicylab.org/wp-content/uploads/2021/07/Measuring-Take-up-of-the-CalEITC-with-State-Administrative-Data.pdf) (2023) with John Iselin and Matthew Unrath in the *Journal of Public Economics* 227: 105002.
-- Click [here](/assets/pdfs/CalEITC-Falls-Far-Short-of-Its-Full-Reach.pdf) for a policy brief on this paper from California Policy Lab
 
 <details class="abstract">
 <summary>Abstract</summary>
 The Earned Income Tax Credit (EITC) is the largest cash-based means-tested transfer program in the United States. In 2021, 31 million households received $64 billion from the federal EITC. Twenty-eight states also offer eligible taxpayers a supplement to the federal program. An estimated one-fifth of eligible households fail to claim the federal credit, but little is known about take-up of these state programs. We use administrative data from California on the population of Supplemental Nutrition Assistance Program (SNAP) recipients linked to state tax records to estimate the number of households who are eligible for California's supplement to the federal EITC (CalEITC) but do not claim it. We find that over 400,000 households who received SNAP benefits and who were eligible for the state EITC in 2017 did not receive the credit. This includes approximately 40,000 eligible households who claimed the federal EITC but not the state credit; nearly 98,000 eligible households who filed a state tax return but did not claim the state or federal credit; and roughly 270,000 eligible households who did not file a state tax return. The corresponding take-up rate for the CalEITC among eligible SNAP-enrolled households was 54%. Altogether, these households left a total of $71 million in state EITC funds on the table. If received, these credits would have increased incomes among these households by 2.7% and increased total state EITC outlays by 20%.
 </details>
 
+- Click [here](/assets/pdfs/CalEITC-Falls-Far-Short-of-Its-Full-Reach.pdf) for a policy brief on this paper from California Policy Lab
+
 [**"Driver's Licenses for Unauthorized Immigrants and Auto Insurance"**](https://doi.org/10.1111/coep.12492) (2021) with Brandyn Churchill and Bing Yang Tan in *Contemporary Economic Policy* 39(1):107-125.
-- Click [here](/drivers-licenses/) for a non-technical discussion of this paper
 
 <details class="abstract">
 <summary>Abstract</summary>
 Fourteen states and the District of Columbia allow unauthorized immigrants to obtain driver's licenses. Using variation in the timing and location of these policy changes, we show these Unauthorized Immigrant License Polices (UILPs) are associated with a 1% increase in both the number of licensed drivers and liability insurance coverage, although we do not document a statistically significant relationship with auto insurance claims. Nor do we detect a significant relationship between UILPs and the number of miles driven, vehicle registrations, air quality, or travel behaviors. Overall, our results are consistent with UILPs licensing unauthorized immigrants who were already driving.
 </details>
+
+- Click [here](/drivers-licenses/) for a non-technical discussion of this paper
 
 [**"The Effect of E-Verify Laws on Crime"**](http://ftp.iza.org/dp12798.pdf) (2021) with Brandyn Churchill, Andrew Dickinson, and Joseph J. Sabia in *ILR Review* 75(5): 1294-1320.
 
