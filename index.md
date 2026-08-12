@@ -11,7 +11,7 @@ title: Home
 
 <div style="flex: 1; min-width: 300px;" markdown="1">
 
-I am an Assistant Professor of Economics at California State University, Fullerton. My research focuses broadly on poverty, immigration, and housing. You can learn more about work I've done [here](research) and download a copy of my CV [here](/assets/pdfs/taylor-mackay-CV-september-2025.pdf).
+I am an Assistant Professor of Economics at California State University, Fullerton. My research focuses broadly on poverty, immigration, and housing. You can learn more about work I've done [here](research) and download a copy of my CV [here](/assets/pdfs/taylor-mackay-CV-august-2026.pdf).
 
 **Email:** [tmackay@fullerton.edu](mailto:tmackay@fullerton.edu)
 
