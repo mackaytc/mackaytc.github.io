@@ -134,12 +134,22 @@ details.abstract[open] {
   padding-bottom: 4px !important;
 }
 
+/* Small caps at regular weight in a muted gray, so the collapsed label reads
+   as furniture rather than competing with the bold paper titles above it */
 details.abstract summary {
   cursor: pointer !important;
-  font-style: italic !important;
-  font-weight: 700 !important;
-  color: #073642 !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-variant: small-caps !important;
+  font-size: 0.88em !important;
+  letter-spacing: 0.06em !important;
+  color: #93a1a1 !important;
   list-style: none !important;
+}
+
+details.abstract summary:hover,
+details.abstract summary:hover::before {
+  color: #2aa198 !important;
 }
 
 /* Replace the browser's disclosure triangle with one that sits in the left
@@ -154,7 +164,9 @@ details.abstract summary::before {
   width: 16px;
   margin-left: -16px;
   font-style: normal;
-  color: #2aa198;
+  font-variant: normal;
+  letter-spacing: 0;
+  color: #93a1a1;
 }
 
 details.abstract[open] summary::before {
